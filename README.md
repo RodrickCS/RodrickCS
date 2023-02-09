@@ -1,3 +1,6 @@
+## Sobre ℹ️
+#### Olá 👋🏼, sou Rodrigo, programador por paixão ❤, por sempre gostar de tecnologia isso foi inevitável para mim, atualmente procurando o primeiro emprego, com a finalidade de desenvolver e aprimorar minhas habilidades como pessoa e trabalhador 💼!
+
 ## Contato ✉ / Redes Sociais 📌
 <div> 
   <a href = "mailto:caetanorodrigo46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -5,7 +8,7 @@
   
 </div>
        
-   ## Skills 🛠️
+## Skills 🛠️
        
 <div style="display: inline_block"><br>
   
