@@ -1,5 +1,4 @@
-## Sobre ℹ️
-#### Olá 👋🏼, sou Rodrigo, programador por paixão ❤, por sempre gostar de tecnologia isso foi inevitável para mim, atualmente procurando o primeiro emprego, com a finalidade de desenvolver e aprimorar minhas habilidades como pessoa e trabalhador 💼!
+
 
 ## Contato ✉ / Redes Sociais 📌
 <div> 
